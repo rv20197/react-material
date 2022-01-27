@@ -22,7 +22,7 @@ const App = () => {
 			<AppBar position='relative'>
 				<Toolbar>
 					<PhotoCameraRounded className={classes.icon} />
-					<Typography variant='h6'>Photo Almbum</Typography>
+					<Typography variant='h6'>Photo Album</Typography>
 				</Toolbar>
 			</AppBar>
 			<main>
